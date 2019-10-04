@@ -10,3 +10,4 @@
 #### **Bold _Italic and Bold_ Bold**
 #### ~~Strikethrough~~ **Bold ~~_Italic and Bold_~~ Bold**
 ##### gitignore hidden (ls -a)
+#####_BV=bit value (PB5) =00100000
