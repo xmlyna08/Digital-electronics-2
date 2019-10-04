@@ -9,3 +9,4 @@
 #### *Italic?* **Bold** __Bold?__
 #### **Bold _Italic and Bold_ Bold**
 #### ~~Strikethrough~~ **Bold ~~_Italic and Bold_~~ Bold**
+##### gitignore hiden (ls -a)
