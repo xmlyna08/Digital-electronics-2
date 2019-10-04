@@ -9,3 +9,6 @@
 #### *Italic?* **Bold** __Bold?__
 #### **Bold _Italic and Bold_ Bold**
 #### ~~Strikethrough~~ **Bold ~~_Italic and Bold_~~ Bold**
+##### gitignore hidden (ls -a)
+##### _BV=bit value (PB5) =00100000 (1<<5) left shift "posun 1 o 5 míst doleva) [~"negace"]
+
