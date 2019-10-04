@@ -4,8 +4,8 @@
 
 # Digital-electronics-2
 
-## Asasdasdasdasd
-### kjfhlaskdjfhaskdjf
-### *Italic?* **Bold** __Bold?__
-### **Bold _Italic and Bold_ Bold**
-### ~~Strikethrough~~
+## Header 1
+### Header 2
+#### *Italic?* **Bold** __Bold?__
+#### **Bold _Italic and Bold_ Bold**
+#### ~~Strikethrough~~ **Bold ~~_Italic and Bold_~~ Bold**
